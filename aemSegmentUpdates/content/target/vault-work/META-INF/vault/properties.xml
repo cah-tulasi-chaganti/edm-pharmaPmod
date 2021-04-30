@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>AEM Segment Update Package</comment>
+<entry key="createdBy">tulasi.chaganti</entry>
+<entry key="name">aemSegmentUpdates-content</entry>
+<entry key="created">2020-10-30T00:37:29.465-0400</entry>
+<entry key="groupId">com.cardinalhealth.aem.segmentupdate</entry>
+<entry key="version">1.0-SNAPSHOT</entry>
+<entry key="requiresRoot">false</entry>
+<entry key="group">CAH</entry>
+<entry key="description">Maven Multimodule project for AEM Segment Update.</entry>
+<entry key="artifactId">aemSegmentUpdates-content</entry>
+<entry key="path">/etc/packages/CAH/aemSegmentUpdates-content.zip</entry>
+</properties>

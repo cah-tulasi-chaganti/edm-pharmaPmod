@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="bundle/src/main/java"/>
+	<classpathentry kind="src" path="bundle/src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/jackrabbit-standalone-2.14.8.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/commons-lang3-3.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/commons-lang3-3.6-tests.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/commons-lang3-3.6-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/commons-lang3-3.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/commons-lang3-3.6.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/cq-dam-api-5.8.14.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/org.apache.sling.api-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/org.apache.sling.api-2.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/org.apache.sling.commons.scheduler-2.0.2-incubator.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/org.osgi.compendium-4.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/org.osgi.core-4.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/jcr-2.0.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/org.apache.sling.commons.json-2.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/org.apache.sling.servlets.resolver-2.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/org.apache.sling.javax.activation-0.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/org.apache.sling.jcr.api-2.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/cq-wcm-commons-5.7.8.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/cq-search-5.7.14.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/cq-rewriter-5.7.18.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/cq-commons-5.7.12.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/cq-wcm-api-5.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/commons-lang3-3.3.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/commons-lang3-3.3.2.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/slf4j-simple-1.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/commons-collections4-4.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/commons-collections4-4.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/commons-collections4-4.0.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/org.apache.sling.api-2.0.8.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/org.apache.felix.scr.annotations-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/commons-io-2.4-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/commons-io-2.4-sources.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/commons-io-2.4-tests.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/commons-io-2.4-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/commons-lang-2.6-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/commons-lang-2.6-sources.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/commons-collections-3.2.1-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/commons-collections-3.2.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/commons-collections-3.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/slf4j/slf4j-api-1.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/work (LOH001CE9503S9Z.cardinalhealth.net)/dependencies/dependencies/slf4j/slf4j-simple-1.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Adobe/Jars/cq-replication-5.4.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

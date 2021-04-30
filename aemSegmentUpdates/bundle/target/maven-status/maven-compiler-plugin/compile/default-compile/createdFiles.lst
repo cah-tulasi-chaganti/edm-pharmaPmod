@@ -1,0 +1,10 @@
+com\cardinalhealth\aem\segmentupdate\impl\AEMSegmentUpdateImpl.class
+com\cardinalhealth\aem\segmentupdate\utility\AEMSegmentUpdateUtility_Backup.class
+com\cardinalhealth\aem\segmentupdate\impl\servlet\AEMSegmentUpdateServlet.class
+com\cardinalhealth\aem\segmentupdate\utility\QueryBuilderRestUtility.class
+com\cardinalhealth\aem\segmentupdate\utility\AEMSegmentUpdateOutputFileFormat.class
+com\cardinalhealth\aem\segmentupdate\utility\CSVReader.class
+com\cardinalhealth\aem\segmentupdate\impl\AEMSegmentUpdateImpl_Backup.class
+com\cardinalhealth\aem\segmentupdate\AEMSegmentUpdateService.class
+com\cardinalhealth\aem\segmentupdate\utility\AEMSegmentUpdateUtility.class
+com\cardinalhealth\aem\segmentupdate\utility\Constants.class

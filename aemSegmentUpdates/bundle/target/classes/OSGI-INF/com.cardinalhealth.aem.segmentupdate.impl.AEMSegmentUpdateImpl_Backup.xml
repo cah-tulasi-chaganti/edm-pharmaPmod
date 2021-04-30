@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><components xmlns:scr="http://www.osgi.org/xmlns/scr/v1.0.0">
+    <scr:component immediate="true" name="com.cardinalhealth.aem.segmentupdate.impl.AEMSegmentUpdateImpl_Backup">
+        <implementation class="com.cardinalhealth.aem.segmentupdate.impl.AEMSegmentUpdateImpl_Backup"/>
+        <service servicefactory="false">
+            <provide interface="com.cardinalhealth.aem.segmentupdate.impl.AEMSegmentUpdateImpl_Backup"/>
+        </service>
+        <property name="aemsegmentmgtservice.sysuser" value="oesystemuser"/>
+        <property name="aemsegmentmgtservice.damInputFolPath" value="/content/dam/oe/SegmentUpdate/Input/PMOD_Accounts.csv"/>
+        <property name="aemsegmentmgtservice.damOutPutFolPath" value="/content/dam/oe/SegmentUpdate/Output"/>
+        <property name="aemsegmentmgtservice.segmentFolder" value="/etc/segmentation/oe/LocalStoreMarketing"/>
+        <property name="aemsegmentmgtservice.taritValue" value="dcAccount"/>
+        <property name="aemsegmentmgtservice.isAuthInstance" value="1"/>
+        <property name="service.pid" value="com.cardinalhealth.aem.segmentupdate.impl.AEMSegmentUpdateImpl_Backup"/>
+    </scr:component>
+</components>

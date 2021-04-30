@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><components xmlns:scr="http://www.osgi.org/xmlns/scr/v1.0.0">
+    <scr:component name="com.cardinalhealth.aem.segmentupdate.impl.servlet.AEMSegmentUpdateServlet">
+        <implementation class="com.cardinalhealth.aem.segmentupdate.impl.servlet.AEMSegmentUpdateServlet"/>
+        <service servicefactory="false">
+            <provide interface="javax.servlet.Servlet"/>
+        </service>
+        <property name="sling.servlet.paths">
+            /bin/AEMSegmentUpdateServletPMOD
+        </property>
+        <property name="sling.servlet.methods">
+            GET
+        </property>
+        <property name="service.pid" value="com.cardinalhealth.aem.segmentupdate.impl.servlet.AEMSegmentUpdateServlet"/>
+    </scr:component>
+</components>

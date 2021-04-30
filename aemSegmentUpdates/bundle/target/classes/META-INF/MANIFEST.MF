@@ -1,0 +1,46 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1604032648253
+Build-Jdk: 1.8.0_91
+Built-By: tulasi.chaganti
+Bundle-Description: Maven Multimodule project for AEM Segment Update.
+Bundle-ManifestVersion: 2
+Bundle-Name: AEM Segment Update Bundle
+Bundle-SymbolicName: com.cardinalhealth.aem.segmentupdate.aemSegmentUpda
+ tes-bundle
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Embed-Dependency: *;scope=compile|runtime;inline=false;
+Export-Package: com.cardinalhealth.aem.segmentupdate;version="1.0.0.SNAP
+ SHOT",com.cardinalhealth.aem.segmentupdate.impl.servlet;uses:="org.osgi
+ .framework,com.cardinalhealth.aem.segmentupdate,javax.servlet,org.slf4j
+ ,org.apache.sling.api,com.cardinalhealth.aem.segmentupdate.impl,org.apa
+ che.sling.api.servlets";version="1.0.0.SNAPSHOT",com.cardinalhealth.aem
+ .segmentupdate.impl;uses:="org.slf4j,com.cardinalhealth.aem.segmentupda
+ te.utility,com.cardinalhealth.aem.segmentupdate,org.osgi.framework,com.
+ day.cq.replication,org.apache.sling.jcr.api,org.apache.sling.commons.js
+ on,org.apache.sling.api.resource,com.day.cq.search,javax.jcr";version="
+ 1.0.0.SNAPSHOT",com.cardinalhealth.aem.segmentupdate.utility;uses:="com
+ .day.cq.search.result,org.slf4j,com.day.cq.dam.api,org.apache.sling.com
+ mons.json,org.apache.sling.api.resource,com.day.cq.search,javax.jcr,org
+ .apache.commons.lang3,org.apache.commons.httpclient.methods,org.apache.
+ commons.httpclient";version="1.0.0.SNAPSHOT"
+Import-Package: com.adobe.cq.sightly;version="3.1.0",com.day.cq.commons;
+ version="0.0.0",com.day.cq.dam.api;version="[1.22,2)";resolution:=optio
+ nal,com.day.cq.replication;version="[6.4,7)";resolution:=optional,com.d
+ ay.cq.search;version="[1.2,2)";resolution:=optional,com.day.cq.search.r
+ esult;version="[1.2,2)";resolution:=optional,javax.inject;version="0.0.
+ 0",javax.jcr;version="[2.0,3)";resolution:=optional,javax.servlet;resol
+ ution:=optional,org.apache.commons.httpclient;resolution:=optional,org.
+ apache.commons.httpclient.methods;resolution:=optional,org.apache.commo
+ ns.lang3;version="[3.4,4)";resolution:=optional,org.apache.sling.api;ve
+ rsion="[2.3,3)";resolution:=optional,org.apache.sling.api.resource;vers
+ ion="[2.10,3)";resolution:=optional,org.apache.sling.api.servlets;versi
+ on="[2.2,3)";resolution:=optional,org.apache.sling.commons.json;version
+ ="[2.0,3)";resolution:=optional,org.apache.sling.jcr.api;version="[2.4,
+ 3)";resolution:=optional,org.osgi.framework;version="[1.5,2)";resolutio
+ n:=optional,org.slf4j;version="[1.5,2)";resolution:=optional
+Service-Component: OSGI-INF/com.cardinalhealth.aem.segmentupdate.impl.AE
+ MSegmentUpdateImpl.xml,OSGI-INF/com.cardinalhealth.aem.segmentupdate.im
+ pl.servlet.AEMSegmentUpdateServlet.xml,OSGI-INF/com.cardinalhealth.aem.
+ segmentupdate.impl.AEMSegmentUpdateImpl_Backup.xml
+Tool: Bnd-1.50.0
